@@ -1,4 +1,4 @@
-# VPNTunnel
+# VPNTunnel With IPS/IDS Deployment
 A private tunnel to securely access your devices at home and the wider web even on your public networks.
 
 # VPN Server Setup Guide with Arch Linux, WireGuard, and Snort IDS/IPS
